@@ -1,0 +1,6 @@
+#view2-view {
+  display: block;
+}
+:host {
+  display: block;
+}
